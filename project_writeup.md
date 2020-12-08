@@ -107,16 +107,22 @@ The image below depicts the 5 test images, as well as the breakdown of the top 5
 ## 4. Relevant links
 
 http://www.fast.ai/
+
 http://yerevann.com/a-guide-to-deep-learning/
+
 https://medium.com/@vivek.yadav/dealing-with-unbalanced-data-generating-additional-data-by-jittering-the-original-image-7497fe2119c3#.obfuq3zde
+
 https://medium.com/@vivek.yadav/improved-performance-of-deep-learning-neural-network-models-on-traffic-sign-classification-using-6355346da2dc#.tq0uk9oxy
 
 Batch size discussion ::
+
 http://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
 
 Adam optimizer discussion::
+
 http://sebastianruder.com/optimizing-gradient-descent/index.html#adam'
 
 Dropouts ::
+
 https://pgaleone.eu/deep-learning/regularization/2017/01/10/anaysis-of-dropout/
 
